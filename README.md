@@ -1,2 +1,2 @@
 # email-validation
-A complete email validation script
+A simple complete email validation script.
